@@ -1,0 +1,102 @@
+{
+    "player1": {
+        "name":"croc man",
+        "alignment":"lawless",
+        "Health":8,
+        "Damage":3,
+        "range":1,
+        "moves":3,
+        "Special":"IDR his Special",
+        "Photo":"D:\\vsc folder\\LoyalAndTheLawless\\Images\\2.png"
+    },
+    "player2":{
+        "name":"warlord",
+        "alignment":"Loyal",
+        "Health":9,
+        "Damage":3,
+        "range":1,
+        "moves":3,
+        "Special":"IDR his Special",
+        "Photo":"D:\\vsc folder\\LoyalAndTheLawless\\Images\\1.png"
+    },
+    "player3":{
+        "name":"wizard",
+        "alignment":"Neutral",
+        "Health":5,
+        "Damage":2,
+        "range":3,
+        "moves":2,
+        "Special":"Fireball - Instead of attacking this turn, deal 2 dmg to all players in a 7-tile hexagon (which's centre is within 4 tiles of you). Costs 1hp to cast.",
+        "Photo":"D:\\vsc folder\\LoyalAndTheLawless\\Images\\9.png"
+    },
+    "player4": {
+        "name":"arbalist",
+        "alignment":"Loyal",
+        "Health":5,
+        "Damage":2,
+        "range":4,
+        "moves":3,
+        "Special":"Steady Aim - Don't move this turn. Gain +2 dmg and +1 range.",
+        "Photo":"D:\\vsc folder\\LoyalAndTheLawless\\Images\\3.png"
+    },
+    "player5": {
+        "name":"cavalier",
+        "alignment":"Loyal",
+        "Health":5,
+        "Damage":2,
+        "range":1,
+        "moves":4,
+        "Special":"Mounted Combatant - After using Lance Strike, can use it again against other enemies, doing 1 dmg instead of 2. Every hit gives Cavalier +1 spd for that turn.",
+        "Photo":"D:\\vsc folder\\LoyalAndTheLawless\\Images\\4.png"
+    },
+    "player6": {
+        "name":"blademaster",
+        "alignment":"lawless",
+        "Health":5,
+        "Damage":1,
+        "range":1,
+        "moves":3,
+        "Special":"Guard Stance - Sacrifice two attacks, instead reducing all incoming damage by 3 for one turn. Usable twice per game. Attack: Flurry of Blows - 3 attacks, each doing 1 dmg.",
+        "Photo":"D:\\vsc folder\\LoyalAndTheLawless\\Images\\5.png"
+    },
+    "player7": {
+        "name":"druid",
+        "alignment":"lawless",
+        "Health":6,
+        "Damage":2,
+        "range":1,
+        "moves":3,
+        "Special":"Vegetation Devastation - Instead of attacking this turn, grow thorny vines in a three-tile triangle (within 3 tiles of you). For two turns, any person who enters the vines takes 1 damage",
+        "Photo":"D:\\vsc folder\\LoyalAndTheLawless\\Images\\6.png"
+    },
+    "player8": {
+        "name":"barkeep",
+        "alignment":"Neutral",
+        "Health":5,
+        "Damage":2,
+        "range":2,
+        "moves":2,
+        "Special":"Lob - Barkeep can throw Bottle of expired Mead over walls.",
+        "Photo":"D:\\vsc folder\\LoyalAndTheLawless\\Images\\13.png"
+    },
+    "player9": {
+        "name":"knight",
+        "alignment":"Neutral",
+        "Health":8,
+        "Damage":2,
+        "range":1,
+        "moves":3,
+        "Special":"Rally - Instead of attacking this turn, give allies +1 dmg for their next attack.",
+        "Photo":"D:\\vsc folder\\LoyalAndTheLawless\\Images\\8.png"
+    },
+    "player10": {
+        "name":"minstrel",
+        "alignment":"Neutral",
+        "Health":5,
+        "Damage":2,
+        "range":3,
+        "moves":2,
+        "Special":"Lullaby - Instead of attacking thus turn, cause one enemy to fall asleep, skipping their turn. Sleeping enemies wake up if they take damage. Usable once per game. Attack: Vicious Mockery - The mocked enemy has only 15 seconds for their next turn.",
+        "Photo":"D:\\vsc folder\\LoyalAndTheLawless\\Images\\11.png"
+    }
+}
